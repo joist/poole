@@ -9,8 +9,7 @@ permalink:        pretty
 title:            Poole
 tagline:          'The Jekyll Butler'
 description:      'Base theme for Jekyll themes by @mdo.'
-url:              http://joist.github.io
-baseurl:          /poole-baseurl-testpage
+url:              http://getpoole.com
 
 author:
   name:           'Mark Otto'
